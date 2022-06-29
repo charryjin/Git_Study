@@ -6,7 +6,11 @@ public class Problem1 {
         while(scanner.hasNext()){
             int n = scanner.nextInt();
             char[] chars = scanner.nextLine().toCharArray();
-            
+
+
+
+
+            String currrr = new Problem1();
         }
     }
 }
