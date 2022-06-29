@@ -6,8 +6,7 @@ public class Problem1 {
         while(scanner.hasNext()){
             int n = scanner.nextInt();
             char[] chars = scanner.nextLine().toCharArray();
-            String cur = new String(new char[]{'c','2'});
-            System.out.printf("cur");
+            String fixed = new String();
         }
     }
 }
